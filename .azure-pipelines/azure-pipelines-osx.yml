@@ -1,5 +1,5 @@
 jobs:
-  - job: osx_64_cross_target_platformosx-64gfortran_version12.3.0macos_machinex86_64-apple-darwin13.4.0
+  - job: first_job
     pool:
       vmImage: macOS-11
     timeoutInMinutes: 360
